@@ -71,7 +71,6 @@ img {
 
 .content:hover{
     opacity: 1;
-
 }
 
 .content p{
@@ -87,6 +86,28 @@ img {
     align-items: center;
 }
 
-div p {
+p {
     color: whitesmoke
+}
+
+h1 {
+    color: whitesmoke
+}
+
+ul {
+    color: whitesmoke
+}
+
+#contactText{
+    overflow: hidden;
+    width: 69%;
+    margin: auto;
+    align-items: center;
+}
+
+#hereText{
+    overflow: hidden;
+    width: 69%;
+    margin: auto;
+    align-items: center;
 }
